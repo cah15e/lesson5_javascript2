@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 21, 2017
 
 ### Student Name:  
-(First and Last Name)
+Chyanne Harrison
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+While creating a tax calculator use if statements, if/else statements, and nested if statements. 
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. getElementByTagName () can reference to an element on a webpage by looking through elements until finding the right one.
+2. The if statement is used is condition returns a truthy value. 
+3. The if/else statement returns action if one condition is true and another one if false.
 
