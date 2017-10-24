@@ -270,7 +270,7 @@ function calculateTax(){
             *          This clears out the results.
           *************************************************************************************************************/  
              
-function clearButton () {
+        function clearButton () {
               //This code removes the taxable income the user entered in the textfield.
               document.getElementById("incomeInput").value = "";
               
@@ -284,9 +284,5 @@ function clearButton () {
               document.getElementById("taxEstimate").innerHTML = ""; 
 
               
-              
-
-
-
-}//end of clearButton function
+            }//end of clearButton function
       
